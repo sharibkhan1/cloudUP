@@ -1,0 +1,12 @@
+torch
+pypdf 
+langchain-community
+langchain_community
+faiss-cpu
+langchain
+transformers
+sentence-transformers
+pinecone-client
+PineconeStore
+langchain_pinecone
+pinecone_notebooks
